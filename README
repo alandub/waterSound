@@ -1,0 +1,11 @@
+WaterSound is Water Conductivity Sound Project:
+
+
+contents:
+*Arduino Sketch for an Arduino board that measures the electrical conductivity of water 
+*ChucK script that produces sound based from Arduino water sensor
+
+TODO
+
+1/tutorial on setting up the project
+2/A Fritzing diagram
